@@ -21,7 +21,7 @@ const ACDCivic:aHonda = Math.random()>0.5?
         {
             model:'2020',
             make: 'CG125',
-            kick: false,
+            kick: true,
             noOfDoors: 0
         };
     
