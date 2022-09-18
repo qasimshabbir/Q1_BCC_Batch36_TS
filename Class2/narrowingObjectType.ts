@@ -1,3 +1,4 @@
+export {}
 type oCar = {
     model:string,
     make: string,
@@ -35,3 +36,4 @@ function show(vehicle: oHonda){
 }       
 show(oCDCivic);
 show(oCG125);
+
